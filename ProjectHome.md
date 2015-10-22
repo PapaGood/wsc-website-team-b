@@ -1,0 +1,1 @@
+To create an E-commerce site providing outreach services, displaying WSC’s company catalog, and taking customer orders through a web portal.
